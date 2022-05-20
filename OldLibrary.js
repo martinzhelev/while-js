@@ -19,3 +19,4 @@ function OldLibrary(input){
   }
 }
 OldLibrary(["Troy","Stronger","Life style","Troy"]);
+OldLibrary(["Troy","Stronger","Life style","Troy"]);
